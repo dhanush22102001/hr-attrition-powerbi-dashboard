@@ -1,0 +1,43 @@
+-- HR Attrition Dashboard — DAX measures (Power BI)
+-- Model: fact_employee (one row per employee), dim_department, dim_role
+-- Relationships: dim_department[department_key] 1 -> * fact_employee[department_key]
+--                dim_role[department_key]        1 -> * fact_employee[department_key]  (role filter via fact is fine for this sample model)
+-- Tip: create a dedicated "_Measures" table (Enter data -> one empty column) and put every measure there.
+
+Headcount =
+COUNTROWS ( fact_employee )
+
+Leavers =
+CALCULATE ( [Headcount], fact_employee[is_leaver] = 1 )
+
+Active Employees =
+[Headcount] - [Leavers]
+
+Attrition % =
+DIVIDE ( [Leavers], [Headcount], 0 )
+
+Avg Tenure (Years) =
+AVERAGE ( fact_employee[tenure_years] )
+
+Avg Monthly Salary =
+AVERAGE ( fact_employee[monthly_salary_usd] )
+
+Avg Job Satisfaction =
+AVERAGE ( fact_employee[job_satisfaction_1_5] )
+
+Avg Work-Life Balance =
+AVERAGE ( fact_employee[work_life_balance_1_5] )
+
+Overtime % =
+DIVIDE (
+    CALCULATE ( [Headcount], fact_employee[overtime] = "Yes" ),
+    [Headcount],
+    0
+)
+
+Early Tenure Attrition % =
+CALCULATE ( [Attrition %], fact_employee[tenure_band] = "0-2 yrs" )
+
+-- Format notes:
+-- Attrition %, Early Tenure Attrition %, Overtime %  -> Percentage, 1 decimal
+-- Avg Tenure -> 1 decimal; salaries -> currency USD, 0 decimals
