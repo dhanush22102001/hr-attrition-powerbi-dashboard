@@ -1,0 +1,241 @@
+employee_id,department_key,tenure_band,age,gender,tenure_years,monthly_salary_usd,annual_salary_usd,job_satisfaction_1_5,work_life_balance_1_5,performance_rating,overtime,is_leaver,exit_reason
+EMP1015,Sales,5+ yrs,58,Female,11.4,3268,39216,4,4,5,No,1,Work-life balance
+EMP1135,Engineering,5+ yrs,52,Male,10.9,4452,53424,3,5,5,No,0,
+EMP1215,Finance,0-2 yrs,47,Male,1.2,6768,81216,3,2,4,No,0,
+EMP1020,Sales,0-2 yrs,28,Female,1.0,6039,72468,4,1,3,No,1,Career growth
+EMP1005,Sales,5+ yrs,40,Male,10.0,6283,75396,3,4,2,Yes,1,Career growth
+EMP1067,Customer Support,0-2 yrs,52,Female,1.6,3047,36564,3,1,4,Yes,1,Work-life balance
+EMP1149,Engineering,5+ yrs,45,Female,11.1,5246,62952,4,4,2,No,0,
+EMP1016,Sales,5+ yrs,55,Male,10.5,6955,83460,5,5,4,No,0,
+EMP1188,Operations,5+ yrs,27,Male,5.0,3375,40500,2,2,3,Yes,1,Career growth
+EMP1083,Customer Support,5+ yrs,36,Male,10.3,6820,81840,1,4,4,No,0,
+EMP1167,Operations,5+ yrs,32,Female,9.8,5749,68988,2,2,5,No,0,
+EMP1025,Sales,5+ yrs,37,Male,5.0,5022,60264,3,1,2,No,0,
+EMP1055,Sales,5+ yrs,32,Male,7.4,3584,43008,4,2,3,No,0,
+EMP1196,Human Resources,2-5 yrs,48,Female,4.7,6511,78132,3,5,3,Yes,0,
+EMP1128,Engineering,2-5 yrs,32,Female,4.6,5423,65076,3,4,4,Yes,0,
+EMP1039,Sales,2-5 yrs,34,Female,4.6,3097,37164,5,5,4,No,1,Relocation
+EMP1133,Engineering,5+ yrs,24,Male,8.0,3764,45168,3,2,3,No,0,
+EMP1033,Sales,2-5 yrs,28,Male,4.4,6772,81264,5,4,5,Yes,1,Manager support
+EMP1040,Sales,2-5 yrs,48,Male,4.1,5562,66744,3,2,4,No,0,
+EMP1034,Sales,2-5 yrs,23,Male,2.4,5961,71532,4,3,4,No,0,
+EMP1024,Sales,5+ yrs,25,Male,7.1,7825,93900,5,3,2,No,0,
+EMP1026,Sales,5+ yrs,35,Female,8.1,5765,69180,2,3,4,No,0,
+EMP1122,Engineering,5+ yrs,29,Female,6.5,4451,53412,5,2,4,No,0,
+EMP1137,Engineering,5+ yrs,55,Male,10.3,5446,65352,1,2,3,No,0,
+EMP1076,Customer Support,0-2 yrs,57,Male,0.7,3295,39540,2,2,5,No,0,
+EMP1198,Human Resources,5+ yrs,49,Female,6.5,4841,58092,2,2,3,No,0,
+EMP1119,Engineering,0-2 yrs,44,Male,1.1,2795,33540,3,3,2,No,0,
+EMP1006,Sales,2-5 yrs,46,Male,3.6,6318,75816,2,2,4,No,0,
+EMP1078,Customer Support,5+ yrs,30,Female,11.2,7118,85416,5,3,2,No,0,
+EMP1180,Operations,5+ yrs,47,Male,9.9,3933,47196,2,2,4,No,0,
+EMP1080,Customer Support,5+ yrs,40,Male,6.3,5319,63828,3,3,3,No,1,Career growth
+EMP1182,Operations,2-5 yrs,55,Male,2.9,4876,58512,1,3,4,Yes,0,
+EMP1121,Engineering,2-5 yrs,28,Female,3.1,6707,80484,3,3,3,No,0,
+EMP1132,Engineering,2-5 yrs,53,Male,2.5,3835,46020,2,2,4,No,0,
+EMP1222,Finance,0-2 yrs,46,Male,1.3,5559,66708,4,4,2,Yes,0,
+EMP1070,Customer Support,0-2 yrs,57,Female,1.2,2362,28344,3,4,3,Yes,1,Career growth
+EMP1154,Engineering,5+ yrs,45,Female,5.0,5377,64524,2,1,4,No,0,
+EMP1208,Human Resources,2-5 yrs,38,Female,4.5,7764,93168,3,4,4,No,0,
+EMP1228,Marketing,5+ yrs,49,Female,9.8,3820,45840,2,3,4,No,1,Compensation
+EMP1002,Sales,0-2 yrs,23,Female,1.4,4874,58488,3,1,3,No,0,
+EMP1224,Marketing,5+ yrs,54,Female,5.1,2620,31440,1,3,4,No,0,
+EMP1041,Sales,5+ yrs,41,Female,5.1,2337,28044,2,2,4,No,1,Compensation
+EMP1007,Sales,5+ yrs,32,Female,6.5,5007,60084,2,3,5,No,0,
+EMP1185,Operations,5+ yrs,33,Female,11.3,5495,65940,5,1,4,Yes,0,
+EMP1004,Sales,2-5 yrs,28,Female,4.5,6090,73080,3,4,4,No,0,
+EMP1160,Operations,5+ yrs,30,Female,5.4,2938,35256,4,3,3,Yes,0,
+EMP1060,Sales,2-5 yrs,50,Female,3.2,7409,88908,3,4,3,No,0,
+EMP1240,Marketing,2-5 yrs,56,Male,2.5,5893,70716,2,1,4,No,0,
+EMP1156,Operations,5+ yrs,50,Male,12.0,5824,69888,4,4,4,No,0,
+EMP1065,Customer Support,2-5 yrs,34,Male,3.8,6275,75300,2,1,4,Yes,0,
+EMP1212,Finance,5+ yrs,25,Female,9.2,6837,82044,2,3,2,Yes,0,
+EMP1085,Customer Support,0-2 yrs,31,Male,1.2,5228,62736,3,4,4,No,0,
+EMP1134,Engineering,5+ yrs,24,Female,5.1,4927,59124,5,3,4,No,0,
+EMP1086,Customer Support,5+ yrs,53,Male,10.5,2725,32700,3,2,4,No,1,Career growth
+EMP1082,Customer Support,5+ yrs,50,Male,6.6,6103,73236,3,4,3,No,0,
+EMP1021,Sales,5+ yrs,26,Female,5.5,3402,40824,1,5,4,No,0,
+EMP1103,Customer Support,2-5 yrs,36,Male,4.1,3945,47340,4,3,3,No,0,
+EMP1095,Customer Support,5+ yrs,40,Male,9.0,6033,72396,4,3,2,No,0,
+EMP1164,Operations,5+ yrs,41,Female,6.0,6768,81216,2,1,2,No,0,
+EMP1210,Finance,2-5 yrs,43,Male,3.0,5017,60204,3,3,4,Yes,0,
+EMP1028,Sales,5+ yrs,56,Female,8.5,2418,29016,4,3,5,Yes,0,
+EMP1218,Finance,5+ yrs,39,Male,10.8,2692,32304,2,4,2,Yes,1,Manager support
+EMP1187,Operations,5+ yrs,22,Male,8.9,5555,66660,3,4,3,No,0,
+EMP1088,Customer Support,5+ yrs,48,Female,6.9,4300,51600,2,1,5,No,1,Relocation
+EMP1206,Human Resources,5+ yrs,34,Female,9.7,4703,56436,3,4,3,No,1,Career change
+EMP1046,Sales,5+ yrs,50,Female,7.5,7846,94152,3,5,3,Yes,0,
+EMP1072,Customer Support,5+ yrs,41,Female,7.3,5485,65820,3,3,3,No,0,
+EMP1115,Engineering,2-5 yrs,51,Female,4.3,6375,76500,2,2,5,No,0,
+EMP1001,Sales,0-2 yrs,29,Female,0.6,5337,64044,2,1,3,No,0,
+EMP1111,Engineering,2-5 yrs,48,Male,4.4,6952,83424,5,4,5,No,0,
+EMP1089,Customer Support,5+ yrs,38,Male,5.7,2435,29220,5,3,3,No,1,Career change
+EMP1059,Sales,5+ yrs,56,Female,9.4,7410,88920,3,4,3,No,0,
+EMP1191,Operations,5+ yrs,51,Male,9.0,6414,76968,3,3,3,No,0,
+EMP1098,Customer Support,5+ yrs,51,Female,10.9,5634,67608,4,1,2,Yes,0,
+EMP1106,Customer Support,2-5 yrs,55,Female,3.8,2673,32076,1,3,3,No,0,
+EMP1052,Sales,2-5 yrs,38,Female,4.7,4645,55740,3,2,5,Yes,0,
+EMP1012,Sales,5+ yrs,39,Male,9.3,6048,72576,1,3,3,No,0,
+EMP1010,Sales,2-5 yrs,47,Female,4.5,3844,46128,3,1,2,Yes,0,
+EMP1201,Human Resources,2-5 yrs,58,Female,4.0,5835,70020,2,4,5,No,0,
+EMP1049,Sales,2-5 yrs,48,Male,4.9,2546,30552,4,4,3,Yes,0,
+EMP1155,Operations,5+ yrs,38,Female,8.5,4677,56124,5,2,5,No,1,Manager support
+EMP1102,Customer Support,5+ yrs,35,Male,7.8,2566,30792,1,2,5,No,1,Manager support
+EMP1174,Operations,5+ yrs,29,Male,11.8,5693,68316,4,4,4,Yes,0,
+EMP1190,Operations,5+ yrs,54,Male,11.1,5730,68760,4,3,5,No,0,
+EMP1230,Marketing,2-5 yrs,56,Male,2.4,2627,31524,5,3,4,No,0,
+EMP1186,Operations,5+ yrs,56,Male,6.4,3799,45588,4,3,3,Yes,1,Compensation
+EMP1063,Customer Support,2-5 yrs,55,Female,4.3,5946,71352,3,3,3,Yes,0,
+EMP1051,Sales,5+ yrs,51,Female,11.1,2627,31524,5,3,4,Yes,0,
+EMP1123,Engineering,2-5 yrs,38,Male,2.6,4003,48036,4,3,3,No,0,
+EMP1093,Customer Support,2-5 yrs,24,Female,3.9,7148,85776,1,3,3,No,0,
+EMP1112,Engineering,5+ yrs,31,Male,8.0,4782,57384,4,2,4,Yes,0,
+EMP1019,Sales,5+ yrs,37,Female,9.5,6779,81348,2,1,3,No,0,
+EMP1032,Sales,5+ yrs,31,Male,5.3,2790,33480,2,5,4,No,0,
+EMP1214,Finance,5+ yrs,49,Female,9.7,4291,51492,1,1,3,Yes,0,
+EMP1179,Operations,2-5 yrs,53,Male,4.0,6143,73716,3,5,4,No,0,
+EMP1017,Sales,5+ yrs,45,Male,5.4,7264,87168,2,2,3,No,1,Career growth
+EMP1084,Customer Support,0-2 yrs,24,Female,1.8,5959,71508,5,4,3,No,0,
+EMP1162,Operations,5+ yrs,32,Male,7.2,4017,48204,2,3,5,No,0,
+EMP1120,Engineering,2-5 yrs,48,Female,3.7,6757,81084,1,2,4,No,0,
+EMP1053,Sales,5+ yrs,27,Male,5.8,2902,34824,5,2,4,No,0,
+EMP1184,Operations,5+ yrs,36,Male,6.6,2740,32880,5,2,5,Yes,0,
+EMP1097,Customer Support,0-2 yrs,45,Male,1.6,4887,58644,3,3,5,No,0,
+EMP1172,Operations,5+ yrs,30,Female,8.6,7507,90084,3,2,5,Yes,0,
+EMP1013,Sales,5+ yrs,33,Male,6.2,3495,41940,5,2,4,No,1,Manager support
+EMP1087,Customer Support,5+ yrs,28,Female,5.5,5604,67248,5,1,4,No,0,
+EMP1066,Customer Support,5+ yrs,30,Male,7.8,7695,92340,1,1,3,No,1,Career change
+EMP1183,Operations,5+ yrs,32,Male,5.1,7529,90348,3,2,5,No,0,
+EMP1161,Operations,5+ yrs,55,Male,10.8,3194,38328,2,3,4,Yes,0,
+EMP1129,Engineering,5+ yrs,28,Female,6.8,6555,78660,2,4,4,No,0,
+EMP1038,Sales,0-2 yrs,54,Male,1.7,4409,52908,2,4,2,No,0,
+EMP1235,Marketing,5+ yrs,51,Female,9.3,7799,93588,2,5,4,No,0,
+EMP1042,Sales,5+ yrs,52,Male,9.6,4186,50232,4,2,4,No,1,Career change
+EMP1170,Operations,0-2 yrs,40,Male,1.2,7841,94092,3,3,4,No,0,
+EMP1117,Engineering,0-2 yrs,49,Male,1.6,7648,91776,3,2,3,No,1,Career growth
+EMP1225,Marketing,5+ yrs,46,Female,9.4,4984,59808,3,2,3,Yes,0,
+EMP1192,Operations,5+ yrs,27,Female,6.4,6284,75408,1,3,2,No,0,
+EMP1238,Marketing,2-5 yrs,57,Female,2.2,6990,83880,5,2,3,Yes,0,
+EMP1197,Human Resources,0-2 yrs,44,Male,1.7,6626,79512,3,4,3,Yes,1,Career growth
+EMP1073,Customer Support,5+ yrs,24,Male,10.7,5853,70236,3,1,3,No,0,
+EMP1199,Human Resources,5+ yrs,48,Female,7.5,2504,30048,2,1,4,No,0,
+EMP1104,Customer Support,5+ yrs,29,Male,8.0,2614,31368,2,2,4,No,1,Career growth
+EMP1124,Engineering,5+ yrs,50,Male,8.3,5863,70356,5,3,3,Yes,0,
+EMP1176,Operations,5+ yrs,48,Male,8.4,6815,81780,3,3,3,No,0,
+EMP1142,Engineering,5+ yrs,53,Female,7.3,2512,30144,4,3,4,No,1,Compensation
+EMP1239,Marketing,5+ yrs,34,Male,5.6,7025,84300,3,4,3,No,0,
+EMP1018,Sales,2-5 yrs,25,Male,3.0,2676,32112,4,1,3,No,1,Career growth
+EMP1234,Marketing,0-2 yrs,49,Female,1.5,3410,40920,2,3,4,No,0,
+EMP1171,Operations,2-5 yrs,47,Female,4.7,6037,72444,3,3,3,No,0,
+EMP1110,Customer Support,0-2 yrs,27,Male,1.4,3388,40656,4,3,3,Yes,0,
+EMP1136,Engineering,5+ yrs,48,Male,11.6,4514,54168,4,1,3,No,0,
+EMP1054,Sales,5+ yrs,34,Male,10.1,3997,47964,2,3,3,No,0,
+EMP1061,Sales,2-5 yrs,38,Male,4.3,5350,64200,3,3,3,Yes,0,
+EMP1219,Finance,2-5 yrs,41,Male,2.2,4959,59508,3,4,4,No,0,
+EMP1146,Engineering,5+ yrs,33,Female,9.8,3022,36264,4,5,2,Yes,0,
+EMP1023,Sales,5+ yrs,57,Female,8.0,7649,91788,2,2,5,No,0,
+EMP1236,Marketing,2-5 yrs,31,Female,4.4,6080,72960,3,2,4,No,0,
+EMP1068,Customer Support,0-2 yrs,37,Female,1.7,6879,82548,3,4,3,No,0,
+EMP1189,Operations,5+ yrs,41,Female,7.1,2458,29496,2,2,3,No,0,
+EMP1165,Operations,2-5 yrs,31,Female,4.0,5821,69852,4,4,5,Yes,0,
+EMP1226,Marketing,5+ yrs,32,Male,5.4,6932,83184,2,4,3,No,0,
+EMP1064,Customer Support,5+ yrs,56,Male,11.4,4355,52260,2,4,3,No,0,
+EMP1027,Sales,5+ yrs,58,Female,12.0,3133,37596,3,3,3,No,1,Career growth
+EMP1204,Human Resources,5+ yrs,51,Female,11.0,6840,82080,5,3,3,Yes,0,
+EMP1056,Sales,2-5 yrs,46,Male,4.9,4499,53988,1,4,4,Yes,0,
+EMP1150,Engineering,0-2 yrs,28,Male,1.2,5562,66744,2,3,3,No,0,
+EMP1113,Engineering,5+ yrs,57,Male,11.7,2620,31440,3,3,4,Yes,0,
+EMP1011,Sales,2-5 yrs,26,Male,4.8,7445,89340,3,5,5,Yes,0,
+EMP1139,Engineering,2-5 yrs,23,Male,4.0,3415,40980,4,3,4,Yes,0,
+EMP1094,Customer Support,5+ yrs,30,Male,9.5,6329,75948,3,5,4,Yes,0,
+EMP1140,Engineering,5+ yrs,30,Male,9.2,7457,89484,3,1,2,Yes,0,
+EMP1069,Customer Support,2-5 yrs,49,Female,3.9,2991,35892,3,4,5,Yes,1,Work-life balance
+EMP1216,Finance,0-2 yrs,24,Male,1.4,6475,77700,3,3,4,No,1,Manager support
+EMP1147,Engineering,5+ yrs,41,Female,6.3,7504,90048,2,4,3,No,0,
+EMP1029,Sales,5+ yrs,28,Male,9.0,4031,48372,2,3,4,Yes,0,
+EMP1211,Finance,2-5 yrs,44,Male,2.3,7667,92004,2,5,5,No,0,
+EMP1141,Engineering,5+ yrs,55,Female,5.3,5480,65760,2,1,3,No,0,
+EMP1177,Operations,2-5 yrs,57,Male,4.1,7558,90696,3,2,3,No,0,
+EMP1169,Operations,5+ yrs,22,Female,10.2,7040,84480,2,2,3,No,1,Career growth
+EMP1233,Marketing,5+ yrs,37,Male,8.0,6210,74520,2,3,4,No,0,
+EMP1044,Sales,5+ yrs,46,Female,6.1,4998,59976,2,4,5,No,0,
+EMP1193,Human Resources,5+ yrs,55,Male,5.5,4576,54912,4,3,5,No,0,
+EMP1200,Human Resources,5+ yrs,24,Male,5.0,4892,58704,3,4,4,Yes,0,
+EMP1058,Sales,5+ yrs,28,Female,5.4,6289,75468,4,4,4,No,0,
+EMP1071,Customer Support,5+ yrs,36,Female,11.1,4494,53928,3,3,4,No,0,
+EMP1009,Sales,2-5 yrs,53,Male,4.9,7345,88140,2,1,4,No,0,
+EMP1075,Customer Support,2-5 yrs,52,Male,4.4,5973,71676,3,1,3,No,0,
+EMP1057,Sales,5+ yrs,29,Male,9.6,2781,33372,3,3,3,No,0,
+EMP1008,Sales,2-5 yrs,25,Female,3.0,2683,32196,4,3,2,No,0,
+EMP1145,Engineering,0-2 yrs,43,Male,1.9,6181,74172,3,4,3,No,0,
+EMP1223,Marketing,2-5 yrs,42,Male,4.5,3332,39984,1,2,3,Yes,1,Career growth
+EMP1195,Human Resources,5+ yrs,44,Male,8.5,2991,35892,5,1,5,Yes,0,
+EMP1175,Operations,2-5 yrs,52,Female,2.3,6486,77832,2,4,2,No,1,Career growth
+EMP1114,Engineering,0-2 yrs,44,Female,0.4,3898,46776,3,3,3,No,1,Manager support
+EMP1107,Customer Support,2-5 yrs,27,Female,4.1,3953,47436,1,2,4,No,0,
+EMP1194,Human Resources,5+ yrs,51,Female,6.9,7383,88596,4,2,2,Yes,1,Career growth
+EMP1105,Customer Support,0-2 yrs,55,Male,1.6,3027,36324,3,4,4,Yes,0,
+EMP1127,Engineering,0-2 yrs,50,Male,1.5,6084,73008,5,1,4,Yes,0,
+EMP1168,Operations,5+ yrs,47,Female,6.2,4962,59544,2,2,2,No,0,
+EMP1130,Engineering,5+ yrs,31,Male,11.0,5721,68652,5,4,3,No,0,
+EMP1144,Engineering,5+ yrs,24,Female,7.7,6410,76920,2,1,4,No,0,
+EMP1227,Marketing,5+ yrs,34,Female,5.7,3813,45756,2,5,3,No,0,
+EMP1050,Sales,5+ yrs,48,Male,6.6,4742,56904,3,2,4,No,0,
+EMP1221,Finance,0-2 yrs,42,Male,0.6,5318,63816,4,3,3,No,0,
+EMP1202,Human Resources,5+ yrs,33,Female,7.6,6999,83988,3,1,3,No,0,
+EMP1003,Sales,5+ yrs,39,Female,9.8,2404,28848,4,2,3,Yes,1,Manager support
+EMP1092,Customer Support,5+ yrs,40,Male,9.4,4846,58152,3,2,4,No,0,
+EMP1014,Sales,5+ yrs,55,Female,11.0,5873,70476,3,1,3,No,0,
+EMP1232,Marketing,5+ yrs,52,Female,7.1,7866,94392,5,4,3,Yes,0,
+EMP1116,Engineering,5+ yrs,25,Female,8.2,5305,63660,3,3,4,No,0,
+EMP1220,Finance,5+ yrs,27,Male,6.2,6111,73332,1,3,4,No,0,
+EMP1203,Human Resources,5+ yrs,48,Female,5.1,5608,67296,3,4,3,No,0,
+EMP1207,Human Resources,5+ yrs,52,Female,11.0,4567,54804,3,2,3,No,0,
+EMP1074,Customer Support,5+ yrs,39,Male,7.0,4246,50952,3,3,5,Yes,0,
+EMP1126,Engineering,2-5 yrs,54,Male,4.8,2781,33372,3,4,4,No,0,
+EMP1043,Sales,5+ yrs,36,Male,9.7,3942,47304,1,2,3,No,1,Compensation
+EMP1143,Engineering,5+ yrs,27,Male,6.4,6272,75264,1,3,4,No,0,
+EMP1231,Marketing,5+ yrs,48,Female,8.2,3853,46236,4,2,4,No,0,
+EMP1166,Operations,0-2 yrs,51,Male,1.7,7244,86928,2,1,3,No,0,
+EMP1213,Finance,5+ yrs,52,Female,8.0,2505,30060,1,3,2,No,0,
+EMP1138,Engineering,5+ yrs,36,Female,9.9,6151,73812,5,3,3,No,0,
+EMP1163,Operations,0-2 yrs,23,Male,1.3,5224,62688,4,4,3,No,0,
+EMP1125,Engineering,2-5 yrs,25,Male,4.4,3143,37716,2,3,2,No,1,Relocation
+EMP1048,Sales,0-2 yrs,56,Female,1.2,3980,47760,2,4,4,Yes,1,Work-life balance
+EMP1109,Customer Support,5+ yrs,51,Female,5.0,3371,40452,2,2,3,No,0,
+EMP1099,Customer Support,0-2 yrs,56,Male,1.9,7288,87456,3,5,4,No,0,
+EMP1148,Engineering,5+ yrs,29,Male,9.7,7106,85272,5,4,5,No,0,
+EMP1036,Sales,5+ yrs,34,Female,5.0,5376,64512,5,5,3,No,0,
+EMP1153,Engineering,5+ yrs,46,Female,11.4,2687,32244,3,4,5,No,0,
+EMP1108,Customer Support,0-2 yrs,49,Female,1.5,3583,42996,4,3,4,No,1,Compensation
+EMP1100,Customer Support,5+ yrs,28,Male,10.1,6791,81492,5,2,4,Yes,0,
+EMP1131,Engineering,5+ yrs,43,Female,9.8,3354,40248,4,3,3,No,0,
+EMP1037,Sales,0-2 yrs,23,Female,1.6,5186,62232,2,5,3,Yes,1,Work-life balance
+EMP1178,Operations,5+ yrs,38,Male,7.4,4433,53196,5,2,3,No,0,
+EMP1096,Customer Support,2-5 yrs,57,Male,4.6,6643,79716,1,3,3,No,0,
+EMP1047,Sales,5+ yrs,37,Female,10.1,5362,64344,4,3,4,Yes,1,Career growth
+EMP1237,Marketing,0-2 yrs,41,Male,0.8,3590,43080,1,2,3,No,0,
+EMP1079,Customer Support,5+ yrs,22,Male,6.8,3351,40212,2,4,3,No,0,
+EMP1062,Sales,5+ yrs,52,Male,7.9,7694,92328,3,1,3,No,1,Work-life balance
+EMP1031,Sales,5+ yrs,32,Male,9.0,7004,84048,3,1,5,No,1,Career growth
+EMP1081,Customer Support,5+ yrs,39,Male,9.3,6865,82380,3,4,3,Yes,0,
+EMP1035,Sales,2-5 yrs,28,Female,4.8,2756,33072,4,2,4,No,0,
+EMP1229,Marketing,5+ yrs,53,Male,11.6,4981,59772,3,2,4,No,0,
+EMP1022,Sales,5+ yrs,53,Female,5.9,6713,80556,5,2,2,No,0,
+EMP1152,Engineering,5+ yrs,32,Female,11.4,3892,46704,4,4,3,Yes,0,
+EMP1158,Operations,5+ yrs,45,Male,5.8,3750,45000,3,1,3,No,0,
+EMP1077,Customer Support,5+ yrs,56,Female,5.7,2925,35100,2,3,4,No,0,
+EMP1205,Human Resources,5+ yrs,50,Male,10.2,3343,40116,3,4,2,No,0,
+EMP1181,Operations,2-5 yrs,35,Female,2.7,5294,63528,5,4,3,No,0,
+EMP1173,Operations,5+ yrs,41,Female,7.2,7874,94488,4,3,4,No,0,
+EMP1209,Finance,0-2 yrs,48,Female,0.8,4750,57000,4,1,4,No,0,
+EMP1045,Sales,5+ yrs,55,Male,5.7,5055,60660,5,1,3,No,0,
+EMP1159,Operations,0-2 yrs,58,Male,1.2,5796,69552,4,3,4,No,0,
+EMP1118,Engineering,2-5 yrs,38,Male,3.7,3643,43716,1,4,3,No,0,
+EMP1217,Finance,5+ yrs,28,Male,10.8,2798,33576,2,5,4,No,0,
+EMP1091,Customer Support,0-2 yrs,40,Male,0.6,6656,79872,2,3,4,No,1,Work-life balance
+EMP1090,Customer Support,5+ yrs,49,Male,8.4,7323,87876,4,2,3,No,1,Work-life balance
+EMP1030,Sales,5+ yrs,38,Male,10.9,2888,34656,1,3,3,Yes,0,
+EMP1151,Engineering,5+ yrs,44,Male,7.5,7084,85008,2,5,5,Yes,0,
+EMP1101,Customer Support,5+ yrs,28,Female,11.8,6345,76140,3,5,3,No,1,Career growth
+EMP1157,Operations,5+ yrs,33,Male,9.6,7890,94680,2,5,4,Yes,0,
